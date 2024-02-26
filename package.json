@@ -1,0 +1,14 @@
+{
+  "name": "web3-connection-0xsequence-monorepo",
+  "version": "0.0.0",
+  "description": "0xsequence wallet module loader for web3-connection",
+  "private": true,
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "set-defaults": "^0.0.2"
+  },
+  "scripts": {
+    "prepare": "set-defaults .vscode/"
+  }
+}
